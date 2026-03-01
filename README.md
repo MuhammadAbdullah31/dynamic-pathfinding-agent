@@ -1,4 +1,4 @@
-# Dynamic Pathfinding Agent (NUCES-CFD)
+# Dynamic Pathfinding Agent
 
 ## Description
 This project implements A* and GBFS pathfinding algorithms using Pygame.
