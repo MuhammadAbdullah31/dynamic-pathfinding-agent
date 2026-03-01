@@ -1,0 +1,22 @@
+import pygame
+
+# Grid Settings
+WIDTH = 600
+ROWS = 30
+GAP = WIDTH // ROWS
+
+# Dashboard Settings (NOW ON RIGHT SIDE)
+DASHBOARD_WIDTH = 250
+WIN_WIDTH = WIDTH + DASHBOARD_WIDTH
+WIN_HEIGHT = WIDTH
+
+# Colors (RGB)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREY = (128, 128, 128)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+PURPLE = (128, 0, 128)
+LIGHT_GREY = (220, 220, 220)
